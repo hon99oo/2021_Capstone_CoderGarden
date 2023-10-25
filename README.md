@@ -18,3 +18,6 @@
 1. 각자 로컬에서 MySQL 실행
 2. config > my_Settings.py > DATABASE 파트에서 PASSWORD를 자신의 MySQL 비밀번호로 설정
 3. `python manage.py inspectdb` 명령어로 연동 DB 감지 테스트.
+
+### youtube link
+youtube[https://www.youtube.com/watch?v=zLQoVASa114]
